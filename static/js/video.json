@@ -3,16 +3,18 @@
 	"videoJSON":[
 		{
 			"animate": 12442,
+			"week": 1,
 			"name": "Thunderbolt Fantasy 东离剑游纪 续篇",
 			"list": {
-				"0": "",
-				"1":"",
+				"0": "https://youku163.zuida-bofang.com/20181001/16073_b56d148d/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20181008/16554_10cf4430/index.m3u8",
 				"2":"",
 				"3":""
 			}
 		},
 		{
 			"animate": 12569,
+			"week": 1,
 			"name": "刃牙（新）",
 			"list": {
 				"0":"https://fuli.zuida-youku-le.com/20180702/29297_1c8192e6/index.m3u8",
@@ -36,6 +38,7 @@
 		},
 		{
 			"animate": 13241,
+			"week": 1,
 			"name": "进击的巨人 第三季",
 			"list": {
 				"0":"https://xin.tcpspc.com/20180723/97QN99nG/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59758642c51e0105a955593f68755d687b4f114baf010c932510e52b9d8619b0ad63a6e01f4e483f47bf10c1e6702104c92",
@@ -51,13 +54,657 @@
 				"10":"https://xin.tcpspc.com/20181009/s9MOcA6T/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59756170892ec1f2140dda825d61e86a2ab23778c3c756b5cd5c0f5cc8c2eb91279f29a1b9f482af8304d4b7c153632c86e",
 				"11":"https://xin.tcpspc.com/20181016/e0C9y2qb/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59733e246ad8ddbf2c018281e0eb1814f0df9525fa4439f1c83db51f05c9b6bd699304caca75e10acda300fdeeea85b55dd"
 			}
+		},		
+		{
+			"animate": 13440,
+			"week": 1,
+			"name": "骸骨书店员本田君",
+			"list": {
+				"0":"http://116.55.254.129/s1.ananas.chaoxing.com/video/ff/d3/4e/34600643bf1c5ff2b75597110605f375/sd.mp4",
+				"1":"http://data.vod.itc.cn/?new=/197/75/Px6Cv6ySRT2W50FvoPtNlC.mp4&vid=107156297&mkey=&ch=tv&uid=1540046213000&pt=7&prod=app&pg=1"
+			}
+		},
+		{
+			"animate": 13539,
+			"week": 1,
+			"name": "付丧神出租中",
+			"list": {
+				"0":"http://cn-jxjj-dx-v-05.acgvideo.com/upgcxcode/57/94/47339457/47339457-1-16.mp4?expires=1540049700&platform=html5&ssig=__ogBt5pIvdAuYc4TW3lcA&oi=1850771474&nfa=7VMUDqBQpI8VGBbhQ1faUQ==&dynamic=1&hfa=2046301024&hfb=M2Y2ZWYwZjM2YmRiYmY5MDljYTBiOWE2ZmEwYjJmYTM=&trid=96974f4f167b4500a86a637445e7836d&nfc=1",
+				"1":"http://cn-hbyc2-dx-v-10.acgvideo.com/upgcxcode/32/69/48426932/48426932-1-16.mp4?expires=1540050000&platform=html5&ssig=ANk1DhzRrxI9tv__vBBODw&oi=1850771474&nfa=7VMUDqBQpI8VGBbhQ1faUQ==&dynamic=1&hfa=2046300280&hfb=M2Y2ZWYwZjM2YmRiYmY5MDljYTBiOWE2ZmEwYjJmYTM=&trid=288808a2b2d248fea8e10f5fb97ca069&nfc=1",
+				"2":"http://cn-jsnt2-dx-v-09.acgvideo.com/upgcxcode/83/62/49516283/49516283-1-16.mp4?expires=1540050300&platform=html5&ssig=FsPIT2wmFbxSRKzQy1JQuQ&oi=1850771474&nfa=7VMUDqBQpI8VGBbhQ1faUQ==&dynamic=1&hfa=2046300290&hfb=M2Y2ZWYwZjM2YmRiYmY5MDljYTBiOWE2ZmEwYjJmYTM=&trid=afbdbd4fdd0746789cba4f86e8c068d6&nfc=1",
+				"3":"http://cn-zjjh4-dx-v-10.acgvideo.com/upgcxcode/44/20/50652044/50652044-1-16.mp4?expires=1540050300&platform=html5&ssig=-Tic5GLWw5xrP9YPySeCJg&oi=1850771474&nfa=7VMUDqBQpI8VGBbhQ1faUQ==&dynamic=1&hfa=2046300390&hfb=M2Y2ZWYwZjM2YmRiYmY5MDljYTBiOWE2ZmEwYjJmYTM=&trid=17fa4d3970b94ce68a9ed58e053ee308&nfc=1",
+				"4":"http://223.26.74.66/videos/v0/20180817/ef/4d/2a3dd2d9e58acebf7d367615e4a5bc4a.mp4?key=008e48c1178a8ec83528b30616edf66bc&dis_k=22ffdd548fb41571fcee1eb1b37dc1731&dis_t=1540030143&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795cca-5bcafebf-b2&m=v&qd_k=5fad46fd8b6c9cb884e63fa0c23a36c9&sgti=&qd_ip=7de0f6a8&qd_p=7de0f6a8&dfp=&qd_src=02028001010000000000&ssl=&ip=125.224.246.168&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1540030143474",
+				"5":"http://cn-jxjj-dx-v-03.acgvideo.com/upgcxcode/36/90/52989036/52989036-1-16.mp4?expires=1540050300&platform=html5&ssig=2h1vXNSrG4wWGC7r9i1ieg&oi=1850771474&nfa=7VMUDqBQpI8VGBbhQ1faUQ==&dynamic=1&hfa=2046300462&hfb=M2Y2ZWYwZjM2YmRiYmY5MDljYTBiOWE2ZmEwYjJmYTM=&trid=9cb5d65004c84bc7a6b50ef44c7723fb&nfc=1",
+				"6":"http://223.26.74.67/videos/v0/20180903/f4/23/5842480e8226fee7e00903b53ac6fae6.mp4?key=082635df84dabadba967381503b48adc4&dis_k=2168dda63029bb31a40f12130251cca37&dis_t=1540037151&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795b67-5bcb1a1f-b2&m=v&qd_k=43922e5538a37c7ae8ce6211bbfac867&sgti=&qd_ip=7de70224&qd_p=7de70224&dfp=&qd_src=02028001010000000000&ssl=&ip=125.231.2.36&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1540037151383",
+				"7":"http://cn-jxjj-dx-v-07.acgvideo.com/upgcxcode/97/98/54919897/54919897-1-16.mp4?expires=1540050300&platform=html5&ssig=DI2OOF7ZE1_4BeuAwqhDCg&oi=1850771474&nfa=7VMUDqBQpI8VGBbhQ1faUQ==&dynamic=1&hfa=2046300522&hfb=M2Y2ZWYwZjM2YmRiYmY5MDljYTBiOWE2ZmEwYjJmYTM=&trid=2e3f1e83f41342efa451c35ac773db60&nfc=1",
+				"8":"http://vd3.bdstatic.com/mda-iig1xs1kpesp8xqj/mda-iig1xs1kpesp8xqj.mp4",
+				"9":"http://vd3.bdstatic.com/mda-iip1t1ttmibd89z2/mda-iip1t1ttmibd89z2.mp4",
+				"10":"https://vip.94kuyun.com/20181008/xwFsqyoV/index.m3u8",
+				"11":"http://123.126.115.6/sohu/v1/Tmw70KIOfDvHeTvILlOkUINqB6GhSKsgt4ISrAcLFoTW3dqKOLzHOuOr.mp4?k=R1Fgxr&p=j9lvzSw3qprdqpoC0SsdoprWXfXIWho70F2tvmfCZMbVwmNCNF2sWYysWDNORY6S0pviNF2dypx&r=TmI20LscWOoCNLfcWGbtwmXAyBj&q=OpCGhW7IWJodRDbsfYvSotE7ZDNslG64ZYXOfFWHfFeS0F2OfDNtfBb4WYoURD64fDoUZDJ&cip=61.148.243.45"
+			}
+		},
+		{
+			"animate": 13629,
+			"week": 1,
+			"name": "不受欢迎者之家",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181009/FicsLpm2/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35d12ee613cd064365aa882ec0494bbe0f0223b5403a72618047a9f9a5b92ceba46c789a933f08d390dff4559e8548b097",
+				"1":"https://xin.tcpspc.com/20181017/kCxBxzXX/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe353a9fadae8db10ec06cb04b2e9f714ecb5de39fd49d75d0a7a1b422bc88c4f4975335c9588b1942c58de525ce98db9458"
+			}
+		},
+		{
+			"animate": 13733,
+			"week": 1,
+			"name": "智龙迷城",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13791,
+			"week": 1,
+			"name": "战斗陀螺 爆烈 超绝",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13923,
+			"week": 1,
+			"name": "DOUBLE DECKER! ダグ＆キリル",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13956,
+			"week": 1,
+			"name": "茜色少女",
+			"list": {
+				"0":"https://vip.94kuyun.com/20181002/4OkgYa7i/index.m3u8",
+				"1":"https://vip.94kuyun.com/20181009/sUmMnHTg/index.m3u8"
+			}
+		},
+		{
+			"animate": 14098,
+			"week": 1,
+			"name": "快把我哥帯走2",
+			"list": {
+				"0":"",
+				"1":"",
+				"2":"",
+				"3":"",
+				"4":"",
+				"5":"",
+				"6":"",
+				"7":"",
+				"8":"",
+				"9":"",
+				"10":"",
+				"11":"",
+				"12":"",
+				"13":"",
+				"14":"",
+				"15":"",
+				"16":""
+			}
+		},
+		{
+			"animate": 14185,
+			"week": 1,
+			"name": "黄金神威 第二季",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181009/5QnNUseL/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35f5eb7154b4efc9cb8331a9bd45b53ab13597539c7e6076cf6baf05e0b4b0bec75f5b8b0d906af883b0bef8b53a21163d",
+				"1":" https://xin.tcpspc.com/20181016/WBRvrmLk/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe355f3fc30ed0e28a122568b6cf7efc27ff13e9dfa171045ec88c5183deba076fc17b5ec326152e02ca9f0842664958bf40"
+			}
+		},
+		{
+			"animate": 14300,
+			"week": 1,
+			"name": "末班车后，在胶囊旅馆向上司传递微热的夜晚。",
+			"list": {
+				"0":"https://www.qigaituan.com/20181008/1HdHwLIZ/index.m3u8",
+				"1":"https://www.qigaituan.com/20181015/tOhyY5Q0/index.m3u8"
+			}
+		},
+		{
+			"animate": 12665,
+			"week": 2,
+			"name": "黑色五叶草",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13655,
+			"week": 2,
+			"name": "足球小将 (2018)",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13739,
+			"week": 2,
+			"name": "爆钓BARHUNTER",
+			"list": {
+				"0":"https://youku163.zuida-bofang.com/20181002/16132_d52aa48b/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20181009/16618_ce00d6a9/index.m3u8",
+				"2":"https://sohu.zuida-163sina.com/20181016/MrcoqQH2/index.m3u8"
+			}
+		},
+		{
+			"animate": 13838,
+			"week": 2,
+			"name": "少年阿贝 GO!GO!小芝麻 (2018)",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13843,
+			"week": 2,
+			"name": "苍天之拳 REGENESIS 第二季",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181002/ySyNhjf7/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35685dcc23e32c7c55d66e9ce6cc5b1afe3c7357fcc13eac443c767fa7dd26c267996cfe0fe754bf5be35825e59580fd92",
+				"1":"https://xin.tcpspc.com/20181009/m1U2MxY2/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35ddaadf71d15e5939d55038dc01ffb480b4485b4d7149a8f24a05bd299fd5f96feef35a8c5b4d22d54a4a8800f31c2bd6",
+				"2":"https://xin.tcpspc.com/20181016/GCeAKwZS/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35e2c7ad7067ecad39182f6c254c0e9d20c56dbd83f5916ce23c3ccec9177429c197c98a67f2ab4802352a63547f78cd4a"
+			}
+		},
+		{
+			"animate": 13871,
+			"week": 2,
+			"name": "关于我转生后成为史莱姆的那件事",
+			"list": {
+				"0":"http://oonwiy2x0.bkt.clouddn.com/slm01.mp4",
+				"1":"http://data.vod.itc.cn/?new=/124/248/JSDZHcVXTZKlcQwIWjKq2A.mp4&vid=107032249&mkey=&ch=tv&uid=1540047972000&pt=7&prod=app&pg=1",
+				"2":"https://www3.yuboyun.com/hls/2018/10/16/UDNtWhEq/playlist.m3u8"
+			}
+		},
+		{
+			"animate": 14187,
+			"week": 2,
+			"name": "宇宙战舰提拉米斯 2",
+			"list": {
+				"0":"https://youku163.zuida-bofang.com/20181001/16084_5c8fcbf3/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20181008/16542_0d8ea71d/index.m3u8",
+				"2":"https://youku163.zuida-bofang.com/20181016/17410_80e9a33d/index.m3u8"
+			}
+		},
+		{
+			"animate": 14237,
+			"week": 2,
+			"name": "轩辕剑：苍之曜",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181008/PYokwjZQ/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35a26c89345100de676638ffc6acc39a84b58ee16485d89a51f00966d53ff71209062596ae4c6de2aa568088110aa14b33",
+				"1":"https://xin.tcpspc.com/20181010/vkhrQ7g8/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35f6013da748b63e8c4f15b491de43a291e672e3989975128f2a755ea7a9632425376f9fd3be4d14802730eab0fe3fb714",
+				"2":"https://xin.tcpspc.com/20181017/9bU7yp4x/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35ce8a85112f1d137f8336a96aed7fa03a9115f20d0e07c9bcfc5488fea8f03e98c11e6258179e1f0f0c852fc362104bc8"
+			}
+		},
+		{
+			"animate": 14295,
+			"week": 2,
+			"name": "偶像大师 SideM 事出有因Mini!",
+			"list": {
+				"0":"http://cssjs.skyfollowsnow.pro/404.mp4",
+				"1":"https://gz189cloud2.oos-gz.ctyunapi.cn/48780189-f456-4d32-a533-9888964863f3?x-amz-UFID=9149822271241540&x-amz-FSIZE=44736256&response-content-type=video/mp4&Expires=1540053007&x-amz-UID=489738607&response-content-disposition=attachment%3Bfilename%3D%2202.mp4%22&AWSAccessKeyId=6667aad7f6576995b9ae&x-amz-limitrate=512&x-amz-CLOUDTYPEIN=PERSON&Signature=iECR8MORfgSZncfcNRkgP0jo4Pc%3D"
+			}
+		},
+		{
+			"animate": 14349,
+			"week": 2,
+			"name": "能继续奔跑下去真是太好了",
+			"list": {
+				"0":"https://youku163.zuida-bofang.com/20181009/16627_d6ffa46c/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20181018/17717_9b377362/index.m3u8"
+			}
+		},
+		{
+			"animate": 14412,
+			"week": 2,
+			"name": "大人的防具店",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181009/tPAABTl9/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35e6f2775b37cdb1a2a99a014904dc2ecdf8eee9f802c2cb4010217f8b2d4e1af8f8b1ab958817262dc49642ab3bbd3a22",
+				"1":"https://xin.tcpspc.com/20181016/D6Lk1Gia/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35d8ce0d6d9266b069d077399fde37cddc5b1d300de8f6521361e4e11f792d96f5988f738f1a94c865448555a134bf0986"
+			}
+		},
+		{
+			"animate": 13838,
+			"week": 3,
+			"name": "火影忍者 博人传之火影次世代",
+			"list": {
+				"0":"",
+				"1":""
+			}
 		},
 		{
 			"animate": 13534,
-			"name": "",
+			"week": 3,
+			"name": "我喜欢的是妹妹但不是妹妹",
 			"list": {
 				"0":"https://xin.tcpspc.com/20181011/pOVLmmBN/index.m3u8?sign=a360d74959ac00d3e6a7ff123c055fc5f9d34b551f5bff2cfac23f78b4b37a8713eefbb1d2968691b5c5e94816109c34f1d087e65094206e0bff265a0b9bda1f",
 				"1":"https://xin.tcpspc.com/20181018/DpfvpLxZ/index.m3u8?sign=7cf3d96d1c97fdf4051ad8f5952f93d8da95f4f94028650239682178324ec69d81d1013b196dc8e3cbc5def9c64c44590898f93cdec4cf78e0b135eff1af4281"
+			}
+		},
+		{
+			"animate": 13813,
+			"week": 3,
+			"name": "中间管理录利根川",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13837,
+			"week": 3,
+			"name": "猫猫日本史 第三季",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 14068,
+			"week": 3,
+			"name": "为我而生",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181011/bjwY8ODU/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe3575036e17eba04a0e21aea380b6e4ff10c15f7475fa5901e1fffcd9e102e17bbd07bc87c41263945bfb685b49f30cca00",
+				"1":"https://xin.tcpspc.com/20181017/SZ29KXjo/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35806cd5ac8ffc173267990db61bc3ce510fd364e3903d13adf67b654bb78fdc411725704a331b0b22098a48443291b879"
+			}
+		},
+		{
+			"animate": 14109,
+			"week": 3,
+			"name": "强风吹拂",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181006/cCPPqahi/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35d77ce6507b4cf1772ea2ddc76479098e2d5b0fafa934a9bb3342594fd30698363d07698689bfbc9bb7c3434faa1d83fe",
+				"1":"https://xin.tcpspc.com/20181011/aTh1OFmE/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35b380146c8f51ee3e2f4585ab0510117472f0a38c55df6dd16cfe50774fc96ffbcb8bcf82ff3f01fb730ed0eae96ff870",
+				"2":"https://xin.tcpspc.com/20181017/7hr44ZGe/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35c3e2e9e332110443d9de1b201d74a05a5ff60b667cc793279b0c2fd788094d6d18a3f1857f68079ab3f27155a70d20a4"
+			}
+		},
+		{
+			"animate": 14174,
+			"week": 3,
+			"name": "嫁给非人类",
+			"list": {
+				"0":"http://data.vod.itc.cn/?new=/173/234/EHUsuhsLSxSLpCR1jA0i9G.mp4&vid=106793468&mkey=&ch=tv&uid=1540049776000&pt=7&prod=app&pg=1",
+				"1":"https://cdn.zypbo.com/20181011/l9ihTmro/index.m3u8",
+				"2":"http://data.vod.itc.cn/?new=/41/61/6z3cmNLjRx6bI9mCanc7ND.mp4&vid=107263096&mkey=&ch=tv&uid=1540049878000&pt=7&prod=app&pg=1"
+			}
+		},
+		{
+			"animate": 14417,
+			"week": 3,
+			"name": "1日外出录班长",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 12659,
+			"week": 4,
+			"name": "游戏王VRAINS",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13312,
+			"week": 4,
+			"name": "天空与海洋之间",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181005/97YBCXQF/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35c9abd06963ffcdd8ed656c82e714a6d0c320e3dd88aaac0ec054a0ec75fb1e00bb1802884167de80d11efc7bebc252ce",
+				"1":"https://xin.tcpspc.com/20181011/HivJe55A/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35b54f8783c7c0a32a38a1d69d649b783c6f01f062b543b844c194daf2d3e438f5f67dd5bdefe49d3188b110d9e6f08467",
+				"2":"https://xin.tcpspc.com/20181019/CGJRO6Mb/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35b52ab4f559ad387692abe6fa760cf6ad0969690702d0bc0465d50bc0b2e082fd4c4ae7e99967340caa15f10f945dc98b"
+			}
+		},
+		{
+			"animate": 13536,
+			"week": 4,
+			"name": "战栗杀机",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13755,
+			"week": 4,
+			"name": "偶像活动Friends",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13768,
+			"week": 4,
+			"name": "梅露可物语 -没精神的少年与瓶中的少女-",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181012/OeouY3Se/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35f5a0ce2f52822ae53fc23327b9b7aaf31d279b920060bb36697afa9b67765bbb080e26bc3496fabdfff0f521d3e60788",
+				"1":"https://xin.tcpspc.com/20181019/9tlGrCYE/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35418f76891f922d7fbbfbe1200a01c0e0df9d1f7a8af2ac11ffd64c1d0898ece2d25b3bae3f4af5c377caf0bd28f1b763",
+				"2":""
+			}
+		},
+		{
+			"animate": 13855,
+			"week": 4,
+			"name": "うさぎのマシュー",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13870,
+			"week": 4,
+			"name": "キャラとおたまじゃくし島",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13890,
+			"week": 4,
+			"name": "INGRESS",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181019/3YZkvsID/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35d8bcbd65228caa5a4995d34d3f82ec03a436a9e9181b2b20bf47d36e773fbede2504de00bb84fe2a66e25982c47ce026",
+				"1":"https://xin.tcpspc.com/20181020/dqv7oNnZ/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe356d19c33fdd63e97d783c26bb48fec864459dbc9cae53419634da6e36eba63b1485cf9146864c5dbc3af339ab305846ad",
+				"2":"https://xin.tcpspc.com/20181019/yobh0Hnn/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe358c2286d80569df9a0b47519ac626871d13fd5c179dc55f05bbb0605b485dbd1fcbfd8a3a9c361a771a32ebbfbcdf3304",
+				"3":"https://xin.tcpspc.com/20181019/28HGk0j5/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35dde177ac9564f9c9a7e97bfae1bce9c44281a116c2659be86fbb52492849f43b97dd1899abb3e1cdebde321fa877b2d5",
+				"4":"https://xin.tcpspc.com/20181019/gKbWMEEm/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe356cddfc158281c5abe13be57c3fe1a1c850dea9930532306aa2d6cff399afc14885bee0810413f89496625376c95dac6d",
+				"5":"https://xin.tcpspc.com/20181019/jpekWXtS/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35d8d9483530893c0435a263a86b1fb054905a3071d6e3d779abd720a24c37169c0385903df8a18b8f4146f35e0a119045",
+				"6":"https://xin.tcpspc.com/20181019/EtXi2tws/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35deeb029020c3730e961c42d93e30759908359576c35b0aec437a96116e592d6e5563dbc09f23fa31470c6d955c26cd6c",
+				"7":"https://xin.tcpspc.com/20181019/6nza12cQ/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe358a3a33dd3c0f65e4d90dfaca8d7e6e697e76be15691a7f6a377d7c0b07e02e0e4d678c7e398bb048813dfcbc7b8f47f9",
+				"8":"https://xin.tcpspc.com/20181019/ev5Ubx7G/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35c4897b69ef21128410b71ccf321b20961ac1ad5f7b554b42d45edafe56ca9cbf063a4d41e1e918f78b65d280d6629f23",
+				"9":"https://xin.tcpspc.com/20181019/TQMotvmJ/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35dd8439ba37bc7dafdf6d9f34b4d257e6e18790bedb11c90498ca31e44081b22ebd1694227d1c6b512282e79b167bba68",
+				"10":"https://xin.tcpspc.com/20181019/KhVZir8H/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35521706fb788cdef019b7a2235bc95ac31dfdd5f3fd98bf2180278506f1bbba85ceddf708e5b2a4e2c299feabd20dd615"
+			}
+		},
+		{
+			"animate": 13898,
+			"week": 4,
+			"name": "魔偶马戏团",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181012/TLRJeUKr/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe3585becbed02454603da54d1e7b04efcca3c178b743263d793547463dd8dfe9ee3da6db9092d2ef9d23d409f3e6b53d4c1",
+				"1":"https://xin.tcpspc.com/20181019/umEbFCNc/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35c21458f23ff88e3a33a942abde4292bcdd4fb9077261a1b1adcc9d79154804cefb48664d257802852fee2d90c06e7fdc"
+			}
+		},
+		{
+			"animate": 13900,
+			"week": 4,
+			"name": "青春期笨蛋不做兔女郎学姐的梦",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181004/spBlC0ED/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe3559e15793a221afe0d545287c5411dab09eda5bb56c59443f2888653ffebc036c86a6287589a31c4c894652f4ca4c9fd4",
+				"1":"https://xin.tcpspc.com/20181012/GJ5L7tIx/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35a56f82fd4749f8e538168018660819343bce326cbb6f759563bd3036bbfe1075d530437e4b4f6c8076fb67ee03b5c765",
+				"2":"https://xin.tcpspc.com/20181018/9vJnsJn5/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe356612acefaff7404c328ad5ac31c40c6db69621e97619d90598505fd262a7a52d7c2097b8f44cdff6f5b56c5fcf074c39"
+			}
+		},
+		{
+			"animate": 14001,
+			"week": 4,
+			"name": "学园BASARA",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181005/CkCJC5vC/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe356b36b1c85bda6ec990256f8cac000144f5ecd316ec15534a087225149affe8d73560c2a7d1c7139b111cee0128fefa53",
+				"1":"https://xin.tcpspc.com/20181012/Oa7404fb/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe3580706fa04e6a4a509fd457690edd99f0e9b96f34cf53c4f1ad46913d13cb94211852586e0cff19bb032c4b5e35116bd2",
+				"2":"https://xin.tcpspc.com/20181019/hfzXQbiP/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe357d05de48f12c2b860b68a8edfb4c763286442c193c6068dea0e2c77c491c39b24b9215713e46e9b086a134713415f593"
+			}
+		},
+		{
+			"animate": 14025,
+			"week": 4,
+			"name": "只要贝尔哲布布大小姐喜欢就好",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181011/REmaMXXd/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35c03bc20815f4bb191921f2e4c0a86baf209d218018a249fd55f0e80cbb1f6b20d124d5bd576e803775b2669b19d4a1d9",
+				"1":"https://xin.tcpspc.com/20181018/woo0Jl7K/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35afbba0706b1a3977e1801369a07ff405a8065a1685f1a3424e9ce1d6a3181e01a99fa7a4a7f2ba25fb4fc3db02deef63",
+				"2":""
+			}
+		},
+		{
+			"animate": 14077,
+			"week": 4,
+			"name": "BanG Dream! 少女乐团派对！☆PICO",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 14126,
+			"week": 4,
+			"name": "闪亮幸福★开启吧!心灵",
+			"list": {
+				"0":"http://vd3.bdstatic.com/mda-ii732vx5uue28a1f/mda-ii732vx5uue28a1f.mp4",
+				"1":"http://upos-hz-mirrorks3u.acgvideo.com/upgcxcode/44/05/55500544/55500544-1-6.mp4?e=ig8euxZM2rNcNbU1hwdVtWRVhbdVhoNvNC8BqJIzNbfq99M=&deadline=1540058735&gen=playurl&oi=1850771474&os=ks3u&platform=html5&trid=9034e0120a2949a5acb41ada714596a5&uipk=5&uipv=5&upsig=8c072cdeaf6d230b04a93409e95e1669",
+				"2":"http://vd3.bdstatic.com/mda-iinex5sufeqg40vv/mda-iinex5sufeqg40vv.mp4",
+				"3":"https://vip.94kuyun.com/20180930/I4qyiDns/index.m3u8",
+				"4":"http://data.vod.itc.cn/?new=/93/209/unTKTuNHScyq9TLUEH2gWC.mp4&vid=107114890&mkey=&ch=tv&uid=1540051653000&pt=7&prod=app&pg=1",
+				"5":"http://data.vod.itc.cn/?new=/159/243/6uu3XOXFTb2sCj3AU1GupD.mp4&vid=107114994&mkey=&ch=tv&uid=1540051671000&pt=7&prod=app&pg=1"
+			}
+		},
+		{
+			"animate": 14198,
+			"week": 4,
+			"name": "佐贺偶像是传奇",
+			"list": {
+				"0":"https://vip.94kuyun.com/20181005/lfg2ZxQj/index.m3u8",
+				"1":"https://boba.52kuyun.com/20181012/QB39ihTd/index.m3u8",
+				"2":"https://vip.94kuyun.com/20181019/vsqcpmBE/index.m3u8"
+			}
+		},
+		{
+			"animate": 708,
+			"week": 5,
+			"name": "蜡笔小新",
+			"list": {
+				"0":"",
+				"1":""
+			}
+		},
+		{
+			"animate": 13481,
+			"week": 5,
+			"name": "魔法禁书目录 第三季",
+			"list": {
+				"0":"https://youku163.zuida-bofang.com/20181005/16324_b2dd4ff2/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20181012/17025_372b7c7c/index.m3u8",
+				"2":"https://youku163.zuida-bofang.com/20181019/17896_7a787d5d/index.m3u8"
+			}
+		},
+		{
+			"animate": 13966,
+			"week": 5,
+			"name": "邻家的吸血鬼小妹",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181007/EL7uPyYb/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35fe39055be54931d28c60254b4a00f792eab8891d9d2589830fa94530413d553076173e94289d90f703f8b8110cd5331c",
+				"1":"https://xin.tcpspc.com/20181013/WYClbz0q/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe352b54bbba38a70fef6a129fc3c1c2b6c582c145005a693320f8a927cc18fb2838883451f63600827e95042207653704be",
+				"2":"https://xin.tcpspc.com/20181020/eyHxwFZn/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35f525d73880234308f6fa8b55ae4f61aa221d6791976244e5dc6adba9cd94796a70663cd2bd8546eaf219f0c0afa2037a"
+			}
+		},
+		{
+			"animate": 14026,
+			"week": 5,
+			"name": "我家的女仆太烦人了！",
+			"list": {
+				"0":"https://www3.yuboyun.com/hls/2018/10/15/akktgPzZ/playlist.m3u8",
+				"1":"http://123.126.115.9/sohu/v1/TmPGo6IOfYvHghbXhTsXgVf6e8kCRhNgoVPtg2bbPFXUyYbSoO2VqVw.mp4?k=SqbvOK&p=j9lvzSw3qprdqSPA0pwdoprWXfXIWho70F2tvmfCZMbVwmNCNF2sWYysZhN4WFNS0pviNF2dypx&r=TmI20LscWOoCNLfcWGbtwmXAyBj&q=OpC3hW7IWJodRDbsfYvSotE7ZDNslG64ZYXOfFWHfFeS0F2OfDNtfBeXWBoURD6ORYoUZDJ&cip=61.148.243.45",
+				"2":"http://data.vod.itc.cn/?new=/112/141/pTEInIsCRU2CKMPkD62ufD.mp4&vid=107381942&mkey=&ch=tv&uid=1540052304000&pt=7&prod=app&pg=1"
+			}
+		},
+		{
+			"animate": 14053,
+			"week": 5,
+			"name": "终将成为你",
+			"list": {
+				"0":"http://tudou.com-v-tudou.com/20181005/17303_116ce8fd/index.m3u8",
+				"1":"http://tudou.com-v-tudou.com/20181012/17742_63661cf0/index.m3u8",
+				"2":"https://boba.52kuyun.com/20181020/8VvNCqKi/index.m3u8"
+			}
+		},
+		{
+			"animate": 13254,
+			"week": 6,
+			"name": "RErideD-穿越时空的德里达-",
+			"list": {
+				"0":"https://fuli.zuida-youku-le.com/20181003/34149_c92694c2/index.m3u8",
+				"1":"https://fuli.zuida-youku-le.com/20181003/34148_188f703e/index.m3u8",
+				"2":"https://fuli.zuida-youku-le.com/20181003/34147_7502e030/index.m3u8",
+				"3":"https://fuli.zuida-youku-le.com/20181003/34146_6ae2db0d/index.m3u8",
+				"4":"https://fuli.zuida-youku-le.com/20181003/34167_531e59dd/index.m3u8",
+				"5":"https://youku163.zuida-bofang.com/20181017/17663_7aaf817b/index.m3u8",
+				"6":"https://youku163.zuida-bofang.com/20181017/17662_f2ab6bca/index.m3u8"
+			}
+		},
+		{
+			"animate": 13911,
+			"week": 6,
+			"name": "寄宿学校的朱丽叶",
+			"list": {
+				"0":"https://fuli.zuida-youku-le.com/20181005/34229_d5a6994c/index.m3u8",
+				"1":"https://sohu.zuida-163sina.com/20181013/x57u2gyK/index.m3u8",
+				"2":"https://sohu.zuida-163sina.com/20181020/HHXPslaE/index.m3u8"
+			}
+		},
+		{
+			"animate": 13925,
+			"week": 6,
+			"name": "来自多彩世界的明天",
+			"list": {
+				"0":"https://fuli.zuida-youku-le.com/20181005/34228_e24bedef/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20181012/17026_baddb91e/index.m3u8",
+				"2":"https://sohu.zuida-163sina.com/20181020/tIG17jze/index.m3u8"
+			}
+		},
+		{
+			"animate": 14059,
+			"week": 6,
+			"name": "东京食尸鬼:re 第二季",
+			"list": {
+				"0":"https://sohu.zuida-163sina.com/20181012/owOIPwpA/index.m3u8",
+				"1":"https://sohu.zuida-163sina.com/20181017/nUeeAfHC/index.m3u8"
+			}
+		},
+		{
+			"animate": 14173,
+			"week": 6,
+			"name": "JOJO的奇妙冒险 黄金之风",
+			"list": {
+				"0":"http://data.vod.itc.cn/?new=/191/5/OAAeHjFaRmOaFSQ8dVME1G.mp4&vid=106857363&mkey=&ch=tv&uid=1540053053000&pt=7&prod=app&pg=1",
+				"1":"http://data.vod.itc.cn/?new=/106/59/Z8CM3eOrJsnQ9U5tgzOO5A.mp4&vid=107100429&mkey=&ch=tv&uid=1540053068000&pt=7&prod=app&pg=1",
+				"2":"https://cdn.zypbo.com/20181020/ybJndrGq/index.m3u8"
+			}
+		},
+		{
+			"animate": 13260,
+			"week": 7,
+			"name": "SSSS.古立特",
+			"list": {
+				"0":"https://52dy.hanju2017.com/20181007/V5HWdSZu/index.m3u8",
+				"1":"https://vip.94kuyun.com/20181014/8S7fkbuG/index.m3u8"
+			}
+		},
+		{
+			"animate": 13295,
+			"week": 7,
+			"name": "妖精的尾巴 最终季",
+			"list": {
+				"0":"https://api.47ks.com/config/getinfo.m3u8?pt=twiqiyi&k=f3fcs7mQ2vYXUUBRdV8CGucdY1WBWG7x8aKfXSeXtdivAt5JtF7Gr8KwQrZRXhgQ6X0VL7dhZWXIvIfF1tr67SWodA&sign=6e33f3a705cb8a38d724b32e5ea62de3",
+				"1":"http://223.26.74.73/videos/v0/20181013/48/fb/22d62c08eb8a5794031cce5612d9cc42.mp4?key=0faeb2eb60d7357a5d5b76024443b34fa&dis_k=2ced529bb96594624dcf050d051eb7745&dis_t=1540051075&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795c83-5bcb5083-b3&m=v&qd_k=6e38b7a40a56ff76938fda44a9e645e7&sgti=&qd_ip=01a5a247&qd_p=01a5a247&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.162.71&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1540051075812",
+				"2":""
+			}
+		},
+		{
+			"animate": 13493,
+			"week": 7,
+			"name": "刀剑神域 Alicization篇",
+			"list": {
+				"0":"https://52dy.hanju2017.com/20181007/ojpWyF8i/index.m3u8",
+				"1":"http://tudou.com-v-tudou.com/20181013/17785_cb1277d1/1000k/hls/index.m3u8",
+				"2":"http://223.26.74.61/videos/v0/20181020/e4/1e/4c155af37cfc82727ed153bb948932c9.mp4?key=0fe7785ad9fde48ef9dff289bbe91cf29&dis_k=2777fef6ffd11b206b28725a01b6e05cf&dis_t=1540052886&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795aeb-5bcb5796-b2&m=v&qd_k=207ab732384d61dd395fe6b4f80f7203&sgti=&qd_ip=01a5a71d&qd_p=01a5a71d&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.167.29&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1540052886924"
+			}
+		},
+		{
+			"animate": 13498,
+			"week": 7,
+			"name": "尤利西斯 贞德与炼金骑士",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181016/c8P08dId/index.m3u8?sign=b0fcc8e05ab86b8f26b23bff3728a9b5d029dd6b834fe5ee0fbf5fae05da962d3dc291bdc1f8e8f86734758e2a1ff09becc9cfd8bd08cc5b4c619eab0818cf7d",
+				"1":"https://xin.tcpspc.com/20181016/aVLCfwqa/index.m3u8?sign=b0fcc8e05ab86b8f26b23bff3728a9b57554b1691b73dfbb6c50f756a72d4d6c6855b72b31ec5e1b8f007b602907d74064a9eada4169734d9a92734d2da3257e",
+				"2":""
+			}
+		},
+		{
+			"animate": 13760,
+			"week": 7,
+			"name": "月影特工",
+			"list": {
+				"0":"https://52dy.hanju2017.com/20181007/VKAw4vpQ/index.m3u8",
+				"1":"https://vip.94kuyun.com/20181014/EuwPL6GI/index.m3u8",
+				"2":""
+			}
+		},
+		{
+			"animate": 13831,
+			"week": 7,
+			"name": "哥布林杀手",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181007/NvtCuPtE/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe359e8961b085603ad7da20fc49b9a8a01422309430de568673a618be537b48886ae691335a3ff87a80406d21a9e5adb1af",
+				"1":"https://xin.tcpspc.com/20181014/vgOqHaat/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35cc237a44feb356fed15e44de40d4a5f587a3951d7811c3075153f62cce6ade8726d030d88aa65659621013c3dc0c549d",
+				"2":""
+			}
+		},
+		{
+			"animate": "14112",
+			"week": 0,
+			"name": "天降女子!～女孩子从2楼…掉了下来",
+			"list": {
+				"0":"https://cdn.zypbo.com/20180712/RntpV0zv/index.m3u8",
+				"1":"https://cdn.zypbo.com/20180712/uHvoIpFG/index.m3u8",
+				"2":"https://cdn.zypbo.com/20180726/flnNTwta/index.m3u8",
+				"3":"https://cdn.zypbo.com/20180726/GHnW3wqL/index.m3u8",
+				"4":"https://cdn.zypbo.com/20180731/iIdy56oC/index.m3u8",
+				"5":"https://boba.52kuyun.com/20180808/QpIGXf6F/index.m3u8",
+				"6":"https://boba.52kuyun.com/20180815/M4ZIuQwU/index.m3u8",
+				"7":"https://52dy.hanju2017.com/20180824/3iopMcSl/index.m3u8",
+				"8":"https://cdn.zypbo.com/20180829/fj4DMJqA/index.m3u8"
+			}
+		},
+		{
+			"animate": 10540,
+			"week": 0,
+			"name": "虐杀器官",
+			"list": {
+				"0":"https://vip.94kuyun.com/20171209/ujZFh05h/index.m3u8"
+			}
+		},
+		{
+			"animate": 12682,
+			"week": 6,
+			"name": "六心公主",
+			"list": {
+				"0":"https://vip.94kuyun.com/20181005/ZxWc1kOE/index.m3u8",
+				"1":"https://vip.94kuyun.com/20181005/6XpsFTHj/index.m3u8",
+				"2":""
+			}
+		},
+		{
+			"animate": 13838,
+			"week": 6,
+			"name": "少年阿贝 GO!GO!小芝麻 (2018)",
+			"list": {
+				"0":"",
+				"1":"",
+				"2":""
 			}
 		}
 	]
