@@ -1,80 +1,64 @@
 {
 	"success": true,
-	"videoJSON":[{
-		"animate": 13241,
-		"list":{
-			"0":"http://223.26.74.59/videos/v0/20180722/fa/19/4eccf86080921a3dc8e96d09b49d33ad.mp4?key=02c75519e7648bf4179d72e8488806bd9&dis_k=263b4155029e7d286425f57b16471d1c1&dis_t=1539605738&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795c83-5bc484ea-b3&m=v&qd_k=08a1cd591ab9ea0d8f696d338e60b801&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539605737988",
-			"1":"http://223.26.74.71/videos/v0/20180730/59/2a/d15c4d5fe39f36ba65358cae41af3a61.mp4?key=076c259ccfb29a2183d6fede410a779c0&dis_k=288825ef8916c91dd3093432502333e2e&dis_t=1539606005&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a798247-5bc485f5-b3&m=v&qd_k=15f48c79094c61c3ddeb618f4a5d01cb&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539606005287",
-			"2":"http://223.26.74.65/videos/v0/20180805/89/dd/ab694f82513f642016c689f1ae102158.mp4?key=0707af5bb9291212ba368120bf1de267b&dis_k=26806f9a3faa813746c117cfe264d0190&dis_t=1539605221&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a7957a5-5bc482e5-b3&m=v&qd_k=580746955bc5ab5bd7262353f55b43f6&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539605221194",
-			"3":"http://223.26.74.55/videos/v0/20180812/1d/24/45be1e36503031a1a95069df6722b8c3.mp4?key=0441edfbe7f7a5b98140e3a695e77d547&dis_k=2fbc578f80d5232e5d5f4d364bb8cfb74&dis_t=1539610703&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795b6a-5bc4984f-b3&m=v&qd_k=39f55423170bc33a49ec89bf9b1634cf&sgti=&qd_ip=7de70338&qd_p=7de70338&dfp=&qd_src=02028001010000000000&ssl=&ip=125.231.3.56&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539610703465",
-			"4":"http://223.26.74.67/videos/v0/20180819/3f/61/30aadd8e8d57e654fbf70e8dc72de7a5.mp4?key=05e4588ecc58315672b89770c29e9bb7d&dis_k=2c8344c743fe38df309d0b0d698c53db9&dis_t=1539604582&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a798248-5bc48066-b2&m=v&qd_k=759bb032aee8c70f17df03cdcb892795&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539604582123",
-			"5":"http://223.26.74.59/videos/v0/20180826/57/bc/4ccd3cb7364a825b31b3c6d73acc4044.mp4?key=088017f3a19539dde10c3899edbd923c3&dis_k=2a60cad4dbc299907aa1b995817faf1dd&dis_t=1539604758&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a798246-5bc48116-b2&m=v&qd_k=84f8146bc5e08431267f349747d46f59&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539604758197",
-			"6":"http://223.26.74.65/videos/v0/20180902/f9/f9/a920be2446067343f8a7b7a0aade5f45.mp4?key=0076474a27847c7561f4af09c9186f314&dis_k=20d0a9a8e77ced9758023b7fff57951a2&dis_t=1539605218&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=add4b46-5bc482e2-b3&m=v&qd_k=3694fddd86a1430a2f07ae7a994aee08&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539605218375",
-			"7":"http://223.26.74.66/videos/v0/20180909/89/e1/ba9ce674045890f2ad0db1e842760667.mp4?key=0a492816c0a81718376fee9500d1bca6a&dis_k=25e6d59c0087364590e9a08aaae3238f5&dis_t=1539603620&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795aeb-5bc47ca4-b3&m=v&qd_k=613a1e690fdeb4f31530d22dfe75453b&sgti=&qd_ip=7de6629f&qd_p=7de6629f&dfp=&qd_src=02028001010000000000&ssl=&ip=125.230.98.159&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539603620539",
-			"8":"http://vd3.bdstatic.com/mda-iig38b8u8xs27h78/mda-iig38b8u8xs27h78.mp4",
-			"9":"http://vd3.bdstatic.com/mda-iip32weiddkw0ph7/mda-iip32weiddkw0ph7.mp4",
-			"10":"blob:http://player.jfrft.net/e076ee42-4435-4566-ba4c-4e67955f62fb",
-			"11":"http://223.26.74.63/videos/v0/20181014/b9/46/ebb40f20abe54e820c20b74c8de4438e.mp4?key=0fb4d078c17dfa291755de527dade6b93&dis_k=271a9aee6bf287c892e1b74ad97d8ba3f&dis_t=1539612226&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795b6a-5bc49e42-b3&m=v&qd_k=8c4fcfd4a427116bdd87b227c5bf731f&sgti=&qd_ip=01a5b4cc&qd_p=01a5b4cc&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.180.204&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539612226389"
+	"videoJSON":[
+		{
+			"animate": 12442,
+			"name": "Thunderbolt Fantasy 东离剑游纪 续篇",
+			"list": {
+				"0": "",
+				"1":"",
+				"2":"",
+				"3":""
+			}
+		},
+		{
+			"animate": 12569,
+			"name": "刃牙（新）",
+			"list": {
+				"0":"https://fuli.zuida-youku-le.com/20180702/29297_1c8192e6/index.m3u8",
+				"1":"https://youku163.zuida-bofang.com/20180708/8970_920423f8/index.m3u8",
+				"2":"https://cn2.zuidadianying.com/20180716/Gor9gdgz/index.m3u8",
+				"3":"https://youku163.zuida-bofang.com/20180723/9808_5fdd769c/index.m3u8",
+				"4":"https://youku163.zuida-bofang.com/20180806/11040_4700b250/index.m3u8",
+				"5":"https://youku163.zuida-bofang.com/20180806/11039_b1d856be/index.m3u8",
+				"6":"https://youku163.zuida-bofang.com/20180806/11060_330f8f69/index.m3u8",
+				"7":"https://fuli.zuida-youku-le.com/20180812/31636_ab7b26a3/index.m3u8",
+				"8":"https://youku163.zuida-bofang.com/20180820/12210_22b1b6ef/index.m3u8",
+				"9":"https://youku163.zuida-bofang.com/20180827/12836_594ff77d/index.m3u8",
+				"10":"https://sohu.zuida-163sina.com/20180903/WMPgKWbU/index.m3u8",
+				"11":"https://youku163.zuida-bofang.com/20180910/14013_6195243c/index.m3u8",
+				"12":"https://youku163.zuida-bofang.com/20180917/14671_2d1da675/index.m3u8",
+				"13":"https://youku163.zuida-bofang.com/20180923/15192_73d3c64d/index.m3u8",
+				"14":"https://youku163.zuida-bofang.com/20181001/15970_5a6f7496/index.m3u8",
+				"15":"https://sohu.zuida-163sina.com/20181008/iZrLign8/index.m3u8",
+				"16":"https://youku163.zuida-bofang.com/20181014/17297_bc4e167a/index.m3u8"				
+			}
+		},
+		{
+			"animate": 13241,
+			"name": "进击的巨人 第三季",
+			"list": {
+				"0":"https://xin.tcpspc.com/20180723/97QN99nG/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59758642c51e0105a955593f68755d687b4f114baf010c932510e52b9d8619b0ad63a6e01f4e483f47bf10c1e6702104c92",
+				"1":"https://xin.tcpspc.com/20180731/tnFGKdo6/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada5972258f7c3c03c14be94e3c0cec5f86a24e1cd1e7db971ed1631428fe81fef2b5d67833fd385e93d077232edc17586f17e",
+				"2":"https://xin.tcpspc.com/20180807/SKB8DgcE/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59739eb41a49b44001a7e7f875b995df69b66f7060c2fe92df2e798a830241317ffde40e4e39ead721cb4cf32c3e71a8aad",
+				"3":"https://xin.tcpspc.com/20180814/15Ro74lF/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59796563b08906c7099b7e03b7639f1e63d04122bee94d60b64f527ef10dbf373873cf5021b92a46120f6eff86345f1af66",
+				"4":"https://xin.tcpspc.com/20180821/RKB6jzVO/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada5974936f427d1a1d3c05d5a6bcd250f5b9156b8f010b120e993cde3deec6a2638dc1c5cd4d9b00385aafafeb781380db1d4",
+				"5":"https://me.guiji365.com/20180827/snbr2jV1/index.m3u8?sign=9e5bb68ef6f971fde3abf6cc55e695b249ad011cf86eaadb0c0667e2e6d6b09288f0d91be91a2ed30b0e35b47426a43a03442301f2f35af8313ee664f7cc9e9f",
+				"6":"https://xin.tcpspc.com/20180904/3v1SsNM2/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada5979ab5ed6a423c3c4dafb718df86d9527df93255c1bac9debfc4a531cc1b63f308ce0240969a349a5f9afb779016801575",
+				"7":"https://xin.tcpspc.com/20180911/ssZGwclk/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada5978741880e6519937d8b33a5d3e6eeac3504f4110b28154063a4a3da6e002b72c26d46e886141c4c5856fc761c142eb4e8",
+				"8":"https://xin.tcpspc.com/20180918/j5TlBZcV/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada5975029d83c2f258cb9e7f5b0f1166706aad65c32080ee2c350c67371913f4a5263659a1efe8f0b6f994cc07336c3fd7ef9",
+				"9":"https://xin.tcpspc.com/20180925/jO5LhF6F/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada5977d91dc2f7fbfb7186060b7dc247a36e0ce0a8d6de50c74c01aec645d92beb14c876a089b8b7f8cdbc820f0234ee8d851",
+				"10":"https://xin.tcpspc.com/20181009/s9MOcA6T/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59756170892ec1f2140dda825d61e86a2ab23778c3c756b5cd5c0f5cc8c2eb91279f29a1b9f482af8304d4b7c153632c86e",
+				"11":"https://xin.tcpspc.com/20181016/e0C9y2qb/index.m3u8?sign=30e512d97a1b24f9738f7d0ef8ada59733e246ad8ddbf2c018281e0eb1814f0df9525fa4439f1c83db51f05c9b6bd699304caca75e10acda300fdeeea85b55dd"
+			}
+		},
+		{
+			"animate": 13534,
+			"name": "",
+			"list": {
+				"0":"https://xin.tcpspc.com/20181011/pOVLmmBN/index.m3u8?sign=a360d74959ac00d3e6a7ff123c055fc5f9d34b551f5bff2cfac23f78b4b37a8713eefbb1d2968691b5c5e94816109c34f1d087e65094206e0bff265a0b9bda1f",
+				"1":"https://xin.tcpspc.com/20181018/DpfvpLxZ/index.m3u8?sign=7cf3d96d1c97fdf4051ad8f5952f93d8da95f4f94028650239682178324ec69d81d1013b196dc8e3cbc5def9c64c44590898f93cdec4cf78e0b135eff1af4281"
+			}
 		}
-	},
-	{
-		"animate": 12441,
-		"list":{
-			"0":"blob:http://player.jfrft.net/c3665c66-1570-4ee8-b42d-916fc337fb57",
-			"1":"http://223.26.74.60/videos/v0/20181008/ec/b6/ccc81d4b00983f41e832a70874566cca.mp4?key=0ba82f986f0a1ffb3af083496ce197e5e&dis_k=2e7a7e99369ee82928436b1eab9014895&dis_t=1539695520&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a798249-5bc5e3a0-b2&m=v&qd_k=de68be2083f18df78a367be1edd55943&sgti=&qd_ip=01a5b77b&qd_p=01a5b77b&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.183.123&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539695520331",
-			"2":"blob:http://player.jfrft.net/d504ada4-5b03-4c21-9e29-66185a14832d"
-		}
-	},
-	{
-		"animate": 12441,
-		"list":{
-			"0":"blob:http://player.jfrft.net/c3665c66-1570-4ee8-b42d-916fc337fb57",
-			"1":"http://223.26.74.60/videos/v0/20181008/ec/b6/ccc81d4b00983f41e832a70874566cca.mp4?key=0ba82f986f0a1ffb3af083496ce197e5e&dis_k=2e7a7e99369ee82928436b1eab9014895&dis_t=1539695520&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a798249-5bc5e3a0-b2&m=v&qd_k=de68be2083f18df78a367be1edd55943&sgti=&qd_ip=01a5b77b&qd_p=01a5b77b&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.183.123&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1539695520331",
-			"2":"blob:http://player.jfrft.net/d504ada4-5b03-4c21-9e29-66185a14832d"
-		}
-	},
-	{
-		"animate": 12569,
-		"list":{
-			"0":"blob:http://player.jfrft.net/4b925cd6-b22e-4a9e-a495-f1fb23cb2176",
-			"1":"blob:http://player.jfrft.net/f2438643-873b-45be-96df-669b3e89240c",
-			"2":"blob:http://player.jfrft.net/6603a255-4906-497b-b3e4-395ad33acc2b",
-			"3":"blob:http://player.jfrft.net/d2c9272a-48cb-4b59-8438-4f0f4cda21cd",
-			"4":"blob:http://player.jfrft.net/8c1c36b1-e20c-490e-906b-ba15a0aadf9a",
-			"5":"blob:http://player.jfrft.net/9753fbdb-dbdd-4572-b8d6-e9d74b7b0709",
-			"6":"blob:http://player.jfrft.net/2ba6851e-7fa5-49eb-89e7-e349bdabfe40",
-			"7":"https://glzyw.com/6188/md/ckplayer/ckplayer.swf",
-			"8":"blob:http://player.jfrft.net/74f1bfb5-ff7b-441d-89cd-62a0189316c8",
-			"9":"https://qn1.fantasy.tv/video%2F1157168%2F1158436%2F1535365031371_new.mp4?year=2018&name=%E4%B8%83%E7%89%9B2018&sign=db962bfd7d2abfbb1a8210ed3fd84db1&t=5bc60691",
-			"10":"f=https://glzyw.com/6188/md/ckplayer/m3u8.swf&a=http%3A%2F%2Fpl.cp31.ott.cibntv.net%2Fplaylist%2Fm3u8%3Fvid%3DXMzgwODkxMjQ2OA%26type%3Dhd2%26ups_client_netip%3D7af5848b%26utid%3DWpTNbIAAAAADABbBwBon7cqN%26ccode%3D01010101%26psid%3D703f1bf78c586c79f30b53218dec6e0a%26duration%3D1436%26expire%3D18000%26drm_type%3D1%26drm_device%3D1%26ups_ts%3D1539701358%26onOff%3D0%26encr%3D0%26ups_key%3D97b9357bd8a9eb825d64840ca01c7757&c=0&s=4&lv=0&p=1&v=100&b=1&e=0&my_title=null",
-			"11":"http://vd3.bdstatic.com/mda-ii9e08sqdduqr3bv/mda-ii9e08sqdduqr3bv.mp4",
-			"12":"http://vd3.bdstatic.com/mda-iigqvm4e31js3tt5/mda-iigqvm4e31js3tt5.mp4",
-			"13":"http://vd3.bdstatic.com/mda-iipavu2z3663rvbd/mda-iipavu2z3663rvbd.mp4",
-			"14":"f=https://glzyw.com/6188/md/ckplayer/m3u8.swf&a=http%3A%2F%2Fpl.cp31.ott.cibntv.net%2Fplaylist%2Fm3u8%3Fvid%3DXMzg0NTExNDY1Ng%26type%3Dmp4hd2v3%26ups_client_netip%3D73e641a4%26utid%3DWpTOVIAAAAADABbBwBpor6oN%26ccode%3D01010101%26psid%3D53b6ec5361da8923c6c6dde493429580%26duration%3D1437%26expire%3D18000%26drm_type%3D1%26drm_device%3D1%26ups_ts%3D1539701589%26onOff%3D0%26encr%3D0%26ups_key%3D2cd325936b9bbfc6cfee7b4846788a29&c=0&s=4&lv=0&p=1&v=100&b=1&e=0&my_title=null",
-			"15":"f=https://glzyw.com/6188/md/ckplayer/m3u8.swf&a=http%3A%2F%2Fpl.cp31.ott.cibntv.net%2Fplaylist%2Fm3u8%3Fvid%3DXMzg1MzMxOTYzMg%26type%3Dmp4hd2v3%26ups_client_netip%3D7af5848b%26utid%3DWpTN5oAAAAADABbBwBpQWqnA%26ccode%3D01010101%26psid%3Da8f834b7ea8685602de0b1fc390d70c9%26duration%3D1437%26expire%3D18000%26drm_type%3D1%26drm_device%3D1%26ups_ts%3D1539701479%26onOff%3D0%26encr%3D0%26ups_key%3D2cb2ffb9b0a8c8b35736958fddd81362&c=0&s=4&lv=0&p=1&v=100&b=1&e=0&my_title=null",
-			"16":"f=https%3A%2F%2Fjx.bingkun.wang%2F97yun%2Furl.php%3Fxml%3Dhttps%3A%2F%2Ftv.sohu.com%2Fv%2FdXMvMzMzNDU4ODMxLzEwNzE1NjU0Mi5zaHRtbA%3D%3D.html%26md5%3Dab5975a7f88ab5d677b86617b167loij%26type%3Dauto%26hd%3Dcq%26wap%3D0%26siteuser%3D%26lg%3D%26sohuuid%3DA5F55CB641659ED549A962522B009BD7&s=2&c=0&p=1&v=100&b=1&e=0&h=4&my_title=null"
-		}
-	},
-	{
-		"animate": 12569,
-		"list": {
-			
-		}
-	},
-	{
-		"animate": 14412,
-		"list": {
-			"0":"f=http://cssjs.skyfollowsnow.pro/ckplayer/m3u8.swf&a=http%3A%2F%2Fpl.cp31.ott.cibntv.net%2Fplaylist%2Fm3u8%3Fvid%3DXMzg1NTc2OTMyOA%26type%3Dmp4hd2v3%26ups_client_netip%3D1b32a1cb%26utid%3DW8WQ1GmSMVIDAGUBWKDh0ygd%26ccode%3D0103010102%26psid%3Daf0d87697b55db3948553f07f740acf0%26duration%3D240%26expire%3D18000%26drm_type%3D1%26drm_device%3D4%26ups_ts%3D1539703120%26onOff%3D0%26encr%3D1%26ups_key%3D59f6b806bdac8f862171235ed6b32e63&c=0&p=1&s=4&lv=0",
-			"1":"f=https%3A%2F%2Fqtv.soshane.com%2Fmdparse%2Furl.php%3Fxml%3Dhttps%3A%2F%2Ftv.sohu.com%2Fv%2FdXMvMzM1MTY2MDQzLzEwNzIxODg5Ny5zaHRtbA%3D%3D.html%26md5%3Dab594691158ab5d62ca3b5727f77loij%26type%3Dauto%26hd%3Dcq%26wap%3D0%26siteuser%3D%26lg%3D%26sohuuid%3D26CB3AC1D2A379C40127F2A7C710072C&s=2&c=0&p=1&v=100&b=1&e=0&h=4&my_title=null"
-		}
-	},
-	{
-		"animate": 13871,
-		"list": {
-			"0":"http://oonwiy2x0.bkt.clouddn.com/slm01.mp4",
-			"1":"blob:http://dplayer.js.org/a13ec99e-e459-47bf-9606-b0744f0ed472",
-			"2":"blob:http://player.jfrft.net/c7003d66-441e-4952-a0a6-458809543357"
-		}
-	}
 	]
 }
