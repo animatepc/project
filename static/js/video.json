@@ -610,7 +610,8 @@
 			"name": "SSSS.古立特",
 			"list": {
 				"0":"https://52dy.hanju2017.com/20181007/V5HWdSZu/index.m3u8",
-				"1":"https://vip.94kuyun.com/20181014/8S7fkbuG/index.m3u8"
+				"1":"https://vip.94kuyun.com/20181014/8S7fkbuG/index.m3u8",
+				"2":"https://me.guiji365.com/ppvod/503BB42A9CF1E4ACF6DF04EF52794FF6.m3u8"
 			}
 		},
 		{
@@ -620,7 +621,7 @@
 			"list": {
 				"0":"https://api.47ks.com/config/getinfo.m3u8?pt=twiqiyi&k=f3fcs7mQ2vYXUUBRdV8CGucdY1WBWG7x8aKfXSeXtdivAt5JtF7Gr8KwQrZRXhgQ6X0VL7dhZWXIvIfF1tr67SWodA&sign=6e33f3a705cb8a38d724b32e5ea62de3",
 				"1":"http://223.26.74.73/videos/v0/20181013/48/fb/22d62c08eb8a5794031cce5612d9cc42.mp4?key=0faeb2eb60d7357a5d5b76024443b34fa&dis_k=2ced529bb96594624dcf050d051eb7745&dis_t=1540051075&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795c83-5bcb5083-b3&m=v&qd_k=6e38b7a40a56ff76938fda44a9e645e7&sgti=&qd_ip=01a5a247&qd_p=01a5a247&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.162.71&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1540051075812",
-				"2":""
+				"2":"https://me.guiji365.com/ppvod/503BB42A9CF1E4ACF6DF04EF52794FF6.m3u8"
 			}
 		},
 		{
@@ -660,7 +661,7 @@
 			"list": {
 				"0":"https://xin.tcpspc.com/20181007/NvtCuPtE/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe359e8961b085603ad7da20fc49b9a8a01422309430de568673a618be537b48886ae691335a3ff87a80406d21a9e5adb1af",
 				"1":"https://xin.tcpspc.com/20181014/vgOqHaat/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35cc237a44feb356fed15e44de40d4a5f587a3951d7811c3075153f62cce6ade8726d030d88aa65659621013c3dc0c549d",
-				"2":""
+				"2":"https://me.guiji365.com/ppvod/503BB42A9CF1E4ACF6DF04EF52794FF6.m3u8"
 			}
 		},
 		{
