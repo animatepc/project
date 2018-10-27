@@ -762,6 +762,46 @@
 				"0":"https://xin.tcpspc.com/20180130/BkBMxoCr/index.m3u8?sign=ffbdf46d350aa13bc7d2b0bb8cb72613e68644d9240d987f744fba2e0f35fd61629b9660604ec45f69ea30b0a1e02e11474c7f5be2c274953c7acd704163d227",
 				"1":"https://xin.tcpspc.com/20180130/tfIJ2MYS/index.m3u8?sign=ffbdf46d350aa13bc7d2b0bb8cb726130f9ed3288998e575ac53578d7a3b9bfdc62e68412425075e7f0b4bf7e198da1d5c37c280843030fe5840d580fa097a10"
 			}
+		},
+		{
+			"animate": 5029,
+			"week": -1,
+			"name": "萝莉的时间",
+			"list": {
+				"0":"http://fuli.zuida-youku-le.com/20180507/25577_2e0bcbf8/index.m3u8",
+				"1":"http://fuli.zuida-youku-le.com/20180507/25574_ea4c7375/index.m3u8?sign=4f1cbc6bf45df9126add8a5655f6f5e5",
+				"2":"http://fuli.zuida-youku-le.com/20180507/25575_13d5c1eb/index.m3u8?sign=bceeb0beb9950902b35ef5c6d0302fb6",
+				"3":"http://fuli.zuida-youku-le.com/20180507/25572_63ee1111/index.m3u8?sign=92a19177583e633610649513175902f2",
+				"4":"http://fuli.zuida-youku-le.com/20180507/25576_cdd2f3b3/index.m3u8?sign=595f0ce394312edc93a72ef935419e03",
+				"5":"http://fuli.zuida-youku-le.com/20180507/25573_de8fd25d/index.m3u8?sign=dc600d2549f1aeacaa99b81b38f0c106",
+				"6":"http://fuli.zuida-youku-le.com/20180507/25571_9e809101/index.m3u8?sign=d21703bdf0a3b886a14abfdd6c747629",
+				"7":"http://fuli.zuida-youku-le.com/20180507/25569_ef3e0b0a/index.m3u8?sign=7ace10f971db9c6a8030c9e6fc6dd712",
+				"8":"http://fuli.zuida-youku-le.com/20180507/25570_e948320a/index.m3u8?sign=8426672637b3df4169efeb3958f0bc35",
+				"9":"http://fuli.zuida-youku-le.com/20180507/25566_42f0aa93/index.m3u8?sign=0b3a57a45ca97b36a2355382164a0e0d",
+				"10":"http://fuli.zuida-youku-le.com/20180507/25568_98e556b6/index.m3u8?sign=93842436fd870d5f731275a56fe81206",
+				"11":"http://fuli.zuida-youku-le.com/20180507/25567_b21a9153/index.m3u8?sign=17ce62d6851c492a31d7b213bafbdb28"
+			}
+		},
+		{
+			"animate": 6091,
+			"week": -1,
+			"name": "萝莉的时间 2学期",
+			"list": {
+				"0":"https://xin.tcpspc.com/20180215/b4PpwlbV/index.m3u8?sign=208eaece64536e1f5b81cd67d48df092620fbd8ba95698ef8f80688c3f987f635ac4b383cc6463f1972a4b5b6c3c1574d22d22be396ed14c090301a91f50fb2a",
+				"1":"https://xin.tcpspc.com/20180215/9UIqhUCb/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e85121a3762d4a361f98038152be58a2b0bfea1d6478b27b8e5ed800822f710475b9058d1076b1c9c346289921f68c45bd96",
+				"2":"https://xin.tcpspc.com/20180215/tzvuo73W/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e851be4be93ee090846f5cd884688dd0681056cbf1c80c878358d8799a10b7ae1db46ff5f5c4c37adfa6d58b7de4da222ca8"
+			}
+		},
+		{
+			"animate": 7926,
+			"week": -1,
+			"name": "萝莉的时间 OVA",
+			"list": {
+				"0":"https://xin.tcpspc.com/20180215/2Jduu52u/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e851a6ea1dc4cae6c2f24c2bf6e494d300c5754c7ceb1c73d40e397a1f084b60aca7755b16b74033a9be8ff0ffdbdae9f18a",
+				"1":"https://xin.tcpspc.com/20180215/PnsVl9Zk/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e8519f5338ee55bce49a311244ab35888103bc73a438400d87573aaebc91cd82e55a740f90d31a3d221e784c5a99be86b908",
+				"2":"https://xin.tcpspc.com/20180215/6NZQnaEU/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e8516904903c133066188bbccc097dedce4c077f3ae1201e845ea6e5533db148ed12b63e1c5a0d24aceceb4d18e69bbb336c",
+				"3":"https://xin.tcpspc.com/20180215/6NZQnaEU/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e85189d382018fd4a4262a171121714dcead874296fd05d534489b0bd9c9de352fede4fba0ba6fc49e4e4c1fc222c25e2f52"
+			}
 		}
 	]
 }
