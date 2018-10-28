@@ -128,7 +128,9 @@
 			"name": "茜色少女",
 			"list": {
 				"0":"https://vip.94kuyun.com/20181002/4OkgYa7i/index.m3u8",
-				"1":"https://vip.94kuyun.com/20181009/sUmMnHTg/index.m3u8"
+				"1":"https://vip.94kuyun.com/20181009/sUmMnHTg/index.m3u8",
+				"2":"https://cdn.zypbo.com/20181016/5v2sAtiZ/index.m3u8",
+				"3":"https://boba.52kuyun.com/20181023/6bzXBRNo/index.m3u8"
 			}
 		},
 		{
@@ -269,7 +271,7 @@
 		{
 			"animate": 14349,
 			"week": 2,
-			"name": "能继续奔跑下去真是太好了",
+			"name": "能继续奔跑下去真是太好了\n",
 			"list": {
 				"0":"https://youku163.zuida-bofang.com/20181009/16627_d6ffa46c/index.m3u8",
 				"1":"https://youku163.zuida-bofang.com/20181018/17717_9b377362/index.m3u8",
@@ -561,7 +563,8 @@
 			"list": {
 				"0":"https://www3.yuboyun.com/hls/2018/10/15/akktgPzZ/playlist.m3u8",
 				"1":"http://123.126.115.9/sohu/v1/TmPGo6IOfYvHghbXhTsXgVf6e8kCRhNgoVPtg2bbPFXUyYbSoO2VqVw.mp4?k=SqbvOK&p=j9lvzSw3qprdqSPA0pwdoprWXfXIWho70F2tvmfCZMbVwmNCNF2sWYysZhN4WFNS0pviNF2dypx&r=TmI20LscWOoCNLfcWGbtwmXAyBj&q=OpC3hW7IWJodRDbsfYvSotE7ZDNslG64ZYXOfFWHfFeS0F2OfDNtfBeXWBoURD6ORYoUZDJ&cip=61.148.243.45",
-				"2":"http://data.vod.itc.cn/?new=/112/141/pTEInIsCRU2CKMPkD62ufD.mp4&vid=107381942&mkey=&ch=tv&uid=1540052304000&pt=7&prod=app&pg=1"
+				"2":"http://data.vod.itc.cn/?new=/112/141/pTEInIsCRU2CKMPkD62ufD.mp4&vid=107381942&mkey=&ch=tv&uid=1540052304000&pt=7&prod=app&pg=1",
+				"3":"https://cdn.youku-letv.com/20181027/jl2GNiQx/index.m3u8"
 			}
 		},
 		{
@@ -571,7 +574,8 @@
 			"list": {
 				"0":"http://tudou.com-v-tudou.com/20181005/17303_116ce8fd/index.m3u8",
 				"1":"http://tudou.com-v-tudou.com/20181012/17742_63661cf0/index.m3u8",
-				"2":"https://boba.52kuyun.com/20181020/8VvNCqKi/index.m3u8"
+				"2":"https://boba.52kuyun.com/20181020/8VvNCqKi/index.m3u8",
+				"3":"https://cdn.youku-letv.com/20181027/6cXy3enR/index.m3u8"
 			}
 		},
 		{
@@ -618,7 +622,7 @@
 			"list": {
 				"0":"https://sohu.zuida-163sina.com/20181012/owOIPwpA/index.m3u8",
 				"1":"https://sohu.zuida-163sina.com/20181017/nUeeAfHC/index.m3u8",
-				"2":""
+				"2":"https://vip.94kuyun.com/20181024/4xAghMwN/index.m3u8"
 			}
 		},
 		{
@@ -628,7 +632,8 @@
 			"list": {
 				"0":"http://data.vod.itc.cn/?new=/191/5/OAAeHjFaRmOaFSQ8dVME1G.mp4&vid=106857363&mkey=&ch=tv&uid=1540053053000&pt=7&prod=app&pg=1",
 				"1":"http://data.vod.itc.cn/?new=/106/59/Z8CM3eOrJsnQ9U5tgzOO5A.mp4&vid=107100429&mkey=&ch=tv&uid=1540053068000&pt=7&prod=app&pg=1",
-				"2":"https://cdn.zypbo.com/20181020/ybJndrGq/index.m3u8"
+				"2":"https://cdn.zypbo.com/20181020/ybJndrGq/index.m3u8",
+				"3":"https://cdn.youku-letv.com/20181027/SAaypgPC/index.m3u8"
 			}
 		},
 		{
@@ -638,7 +643,8 @@
 			"list": {
 				"0":"https://52dy.hanju2017.com/20181007/V5HWdSZu/index.m3u8",
 				"1":"https://vip.94kuyun.com/20181014/8S7fkbuG/index.m3u8",
-				"2":"https://youku163.zuida-bofang.com/20181020/18047_4cc487e1/index.m3u8"
+				"2":"https://youku163.zuida-bofang.com/20181020/18047_4cc487e1/index.m3u8",
+				"3":"https://cdn.youku-letv.com/20181028/S4PfocdK/index.m3u8"
 			}
 		},
 		{
@@ -658,7 +664,8 @@
 			"list": {
 				"0":"https://52dy.hanju2017.com/20181007/ojpWyF8i/index.m3u8",
 				"1":"http://tudou.com-v-tudou.com/20181013/17785_cb1277d1/1000k/hls/index.m3u8",
-				"2":"http://223.26.74.61/videos/v0/20181020/e4/1e/4c155af37cfc82727ed153bb948932c9.mp4?key=0fe7785ad9fde48ef9dff289bbe91cf29&dis_k=2777fef6ffd11b206b28725a01b6e05cf&dis_t=1540052886&dis_dz=OVERSEA-TW_HiNet&dis_st=44&src=iqiyi.com&uuid=a795aeb-5bcb5796-b2&m=v&qd_k=207ab732384d61dd395fe6b4f80f7203&sgti=&qd_ip=01a5a71d&qd_p=01a5a71d&dfp=&qd_src=02028001010000000000&ssl=&ip=1.165.167.29&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1540052886924"
+				"2":"https://vip.94kuyun.com/20181021/WGH6Fnah/index.m3u8",
+				"3":"https://cdn.youku-letv.com/20181028/KWebBY2Z/index.m3u8"
 			}
 		},
 		{
@@ -668,7 +675,7 @@
 			"list": {
 				"0":"https://xin.tcpspc.com/20181016/c8P08dId/index.m3u8?sign=b0fcc8e05ab86b8f26b23bff3728a9b5d029dd6b834fe5ee0fbf5fae05da962d3dc291bdc1f8e8f86734758e2a1ff09becc9cfd8bd08cc5b4c619eab0818cf7d",
 				"1":"https://xin.tcpspc.com/20181016/aVLCfwqa/index.m3u8?sign=b0fcc8e05ab86b8f26b23bff3728a9b57554b1691b73dfbb6c50f756a72d4d6c6855b72b31ec5e1b8f007b602907d74064a9eada4169734d9a92734d2da3257e",
-				"2":""
+				"2":"https://52dy.hanju2017.com/20181022/4kpw3bRg/index.m3u8"
 			}
 		},
 		{
@@ -678,7 +685,8 @@
 			"list": {
 				"0":"https://52dy.hanju2017.com/20181007/VKAw4vpQ/index.m3u8",
 				"1":"https://vip.94kuyun.com/20181014/EuwPL6GI/index.m3u8",
-				"2":""
+				"2":"https://vip.94kuyun.com/20181021/7aHqpUGh/index.m3u8",
+				"3":"https://cdn.youku-letv.com/20181028/tflqjK9I/index.m3u8"
 			}
 		},
 		{
@@ -688,7 +696,8 @@
 			"list": {
 				"0":"https://xin.tcpspc.com/20181007/NvtCuPtE/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe359e8961b085603ad7da20fc49b9a8a01422309430de568673a618be537b48886ae691335a3ff87a80406d21a9e5adb1af",
 				"1":"https://xin.tcpspc.com/20181014/vgOqHaat/index.m3u8?sign=c8f90313d31ae2367a1b207ca573fe35cc237a44feb356fed15e44de40d4a5f587a3951d7811c3075153f62cce6ade8726d030d88aa65659621013c3dc0c549d",
-				"2":"https://me.guiji365.com/ppvod/503BB42A9CF1E4ACF6DF04EF52794FF6.m3u8"
+				"2":"https://me.guiji365.com/ppvod/503BB42A9CF1E4ACF6DF04EF52794FF6.m3u8",
+				"3":"https://cdn.youku-letv.com/20181028/dwQ1ebWS/index.m3u8"
 			}
 		},
 		{
@@ -801,6 +810,14 @@
 				"1":"https://xin.tcpspc.com/20180215/PnsVl9Zk/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e8519f5338ee55bce49a311244ab35888103bc73a438400d87573aaebc91cd82e55a740f90d31a3d221e784c5a99be86b908",
 				"2":"https://xin.tcpspc.com/20180215/6NZQnaEU/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e8516904903c133066188bbccc097dedce4c077f3ae1201e845ea6e5533db148ed12b63e1c5a0d24aceceb4d18e69bbb336c",
 				"3":"https://xin.tcpspc.com/20180215/6NZQnaEU/index.m3u8?sign=2b95e91be1fb187fc1c8de452c99e85189d382018fd4a4262a171121714dcead874296fd05d534489b0bd9c9de352fede4fba0ba6fc49e4e4c1fc222c25e2f52"
+			}
+		},
+		{
+			"animate": 5625,
+			"week": -1,
+			"name": "幼魔",
+			"list": {
+				"25":"http://cdn5.beiyun100.com:8091/20181009/CosktBjm/index.m3u8"
 			}
 		}
 	]
